@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "init": "^0.1.2",
+    "mongoose": "^6.1.4"
+  },
+  "name": "person-relationship",
+  "version": "1.0.0",
+  "description": "create a relation person",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
